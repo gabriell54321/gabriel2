@@ -3,6 +3,8 @@ body {
 }
 header {
     background-color: white;
+    text-align: center;
+    align-items: flex-end;
 }
 section {
     color: aliceblue;
