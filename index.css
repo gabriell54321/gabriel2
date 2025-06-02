@@ -4,7 +4,9 @@ body {
 header {
     background-color: white;
     text-align: center;
-    align-items: flex-end;
+    align-items: center;
+    display: flex;
+    font-size: 150;
 }
 section {
     color: aliceblue;
